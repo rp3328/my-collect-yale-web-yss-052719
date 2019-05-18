@@ -4,5 +4,5 @@ def my_collect(array)
   arr = []
 
   
-  
+
 end
